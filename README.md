@@ -23,6 +23,7 @@ My experience includes:
 
 ## 🔧 Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,npm)](https://skillicons.dev)
+<img src="assets/icons/powerbi.svg" alt="Power BI" width="40" height="40"/>
 
 ## 💻 Softwares
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,anaconda,idea,visualstudio,vscode,)](https://skillicons.dev)
