@@ -1,12 +1,11 @@
-# Hi there 👋
+# My Profile 👋
 
-## My Profile
-I'm Ryo Kato, a Computing programming student at Georgian College (Co-op Program). Previously, I worked for **4 years as a System Engineer** in Japan, focusing on **system operations, maintenance, and software development**. 
+I'm Ryo Kato, a Computer programming student at Georgian College (Co-op Program). Previously, I worked for **4 years as a System Engineer** in Japan, focusing on **system operations, maintenance, and software development**. 
 
 My experience includes:  
 - Developing frontends and BFF (Backend-for-Frontend) using **TypeScript, React, HTML, CSS**
 - Improving **UI clarity and usability** for advertising tools
-- Collaborating in **Agile** teams  
+- Collaborating with teams in **Agile** environment  
 - Maintaining and monitoring **financial systems** (50–80 daily operations, 150+ client companies supported)  
 
 💡 I bring a strong attention to detail, adaptability, and a proactive mindset, with proven skills in **HTML, CSS, Javascript, Java, Python, Power BI, SQL, and React.js** etc.  
